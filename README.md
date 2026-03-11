@@ -121,13 +121,3 @@ Pro tip: if you need project-wide type checking with TypeScript, you can run a b
 ### Contributions
 
 Everyone is welcome to contribute to this project. Feel free to open an issue if you have question or found a bug.
-
-### License
-
-Licensed under the MIT License, Copyright 2022
-
-See `LICENSE` for more information.
-
----
-
-Made by CreativeDesignsGuru
